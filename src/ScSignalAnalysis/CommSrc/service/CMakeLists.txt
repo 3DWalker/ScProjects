@@ -1,0 +1,1 @@
+scsa_add_static("Service" ${SCSA_SERVICE_PRO} "")

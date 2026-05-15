@@ -1,0 +1,5 @@
+#ifndef SCSIGNALPARSER_H
+#define SCSIGNALPARSER_H
+
+#endif // SCSIGNALPARSER_H
+

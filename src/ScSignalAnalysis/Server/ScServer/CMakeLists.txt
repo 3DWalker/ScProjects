@@ -1,0 +1,1 @@
+scsa_add_executable("${SCSA_PROJECT_001}" "${SCSA_PROJECT_001}" "")
